@@ -3,7 +3,7 @@ foreach
 
 fast foreach for c++ stl containers and array
 
-this can be used on windows, linux, android ndk, objective-c
+you can use on windows, linux, android ndk, objective-c
 
 
 example:
