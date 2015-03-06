@@ -37,14 +37,6 @@
 
 struct ForEachBaseIterator
 {
-	ForEachBaseIterator()
-	{
-	}
-
-	virtual ~ForEachBaseIterator()
-	{
-	}
-
 	inline operator bool() const
 	{
 		return true;
