@@ -7,7 +7,7 @@ you can use on windows, linux, android ndk, objective-c
 
 
 example:
-
+```cpp
 	std::vector< int > v;
 	v.push_back( 1 );
 	v.push_back( 2 );
@@ -26,3 +26,4 @@ example:
 
 	for_each_map_value( int value, m )
 		printf( "%d\n", value );
+```
